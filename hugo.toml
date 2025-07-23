@@ -1,0 +1,6 @@
+baseURL = 'https://fsundstrom.com/'
+languageCode = 'en-us'
+title = 'My New Hugo Site - by Fred'
+theme = 'ananke'
+publishDir = 'docs'
+
