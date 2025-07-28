@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on fsundstrom</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on fsundstrom</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Copyright Fredrik Sundström</copyright>
+    <lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computing</title>
+      <link>/tags/computing/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/computing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>/tags/markdown/</link>
+      <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wow</title>
+      <link>/tags/wow/</link>
+      <pubDate>Thu, 24 Jul 2025 10:36:42 +0800</pubDate>
+      <guid>/tags/wow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fun</title>
+      <link>/tags/fun/</link>
+      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/fun/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>/tags/go/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MacOS</title>
+      <link>/tags/macos/</link>
+      <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/macos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Photos</title>
+      <link>/tags/photos/</link>
+      <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/photos/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

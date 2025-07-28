@@ -1,0 +1,17 @@
+{{- with .Site.Params.plugins.js }}
+  {{- range . }}
+    <script src="{{ .link | absURL }}"></script>
+  {{- end }}
+{{- end }}
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const lightbox = GLightbox({
+      selector: '.glightbox',
+      touchNavigation: true,
+      loop: true,
+      scrollLock: false
+    });
+  });
+</script>
+

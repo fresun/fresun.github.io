@@ -1,0 +1,5 @@
+<meta name="author" content="snurre s" />
+
+{{ range .Site.Params.plugins.css -}}
+    <link rel="stylesheet" href="{{ .link | absURL }}">
+{{- end }}

@@ -1,0 +1,9 @@
+[[imports]]
+path = "github.com/jpanther/congo/v2"
+
+# [[imports]]
+# path = "github.com/gethugothemes/hugo-modules/gallery-slider"
+
+[hugoVersion]
+  extended = true
+  min = "0.87.0"

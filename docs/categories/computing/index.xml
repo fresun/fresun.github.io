@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computing on fsundstrom</title>
+    <link>/categories/computing/</link>
+    <description>Recent content in Computing on fsundstrom</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© Copyright Fredrik Sundström</copyright>
+    <lastBuildDate>Thu, 24 Jul 2025 10:36:42 +0800</lastBuildDate>
+    <atom:link href="/categories/computing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proxmox</title>
+      <link>/posts/proxmox/</link>
+      <pubDate>Thu, 24 Jul 2025 10:36:42 +0800</pubDate>
+      <guid>/posts/proxmox/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

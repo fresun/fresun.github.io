@@ -1,0 +1,48 @@
+{{- $folder := .Get "folder" -}}
+{{- $images := resources.Match (printf "%s/*.{jpg,jpeg,webp,png}" $folder) -}}
+
+<div class="gallery">
+  {{- range $images }}
+    <a href="{{ .RelPermalink }}" class="gallery-item glightbox" data-gallery="my-gallery">
+      <img src="{{ .RelPermalink }}" alt="{{ .Name | plainify }}" class="img-fluid rounded mb-2" />
+    </a>
+  {{- end }}
+</div>
+
+<style>
+  /* Masonry layout styling */
+  .gallery {
+    column-count: 4;
+    column-gap: 0.25rem;
+  }
+  .gallery-item {
+    display: block; // inline-block
+    width: 100%;
+    margin-bottom: 0px;
+    break-inside: avoid;
+  }
+  .gallery img {
+    width: 100%;
+    height: auto;
+    margin-top: 0.25rem; !important;
+    margin-bottom: 0.25rem; !important;
+    border-radius: 0.5rem;
+    transition: transform 0.2s ease;
+  }
+  .gallery img:hover {
+    transform: scale(1.10);
+  }
+
+  /* Responsive adjustments */
+  @media (max-width: 992px) {
+    .gallery {
+      column-count: 3;
+    }
+  }
+  @media (max-width: 576px) {
+    .gallery {
+      column-count: 2;
+    }
+  }
+</style>
+
