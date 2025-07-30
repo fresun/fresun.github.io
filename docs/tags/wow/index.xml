@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wow on fsundstrom</title>
-    <link>//localhost:1313/tags/wow/</link>
+    <link>https://fresun.github.io/tags/wow/</link>
     <description>Recent content in Wow on fsundstrom</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Copyright Fredrik Sundström</copyright>
     <lastBuildDate>Thu, 24 Jul 2025 10:36:42 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/wow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fresun.github.io/tags/wow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proxmox</title>
-      <link>//localhost:1313/posts/proxmox/</link>
+      <link>https://fresun.github.io/posts/proxmox/</link>
       <pubDate>Thu, 24 Jul 2025 10:36:42 +0800</pubDate>
-      <guid>//localhost:1313/posts/proxmox/</guid>
+      <guid>https://fresun.github.io/posts/proxmox/</guid>
       <description></description>
     </item>
     <item>
       <title>Palawan in the Philippines</title>
-      <link>//localhost:1313/posts/palawan/</link>
+      <link>https://fresun.github.io/posts/palawan/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/palawan/</guid>
+      <guid>https://fresun.github.io/posts/palawan/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on fsundstrom</title>
-    <link>//localhost:1313/posts/</link>
+    <link>https://fresun.github.io/posts/</link>
     <description>Recent content in Posts on fsundstrom</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Copyright Fredrik Sundström</copyright>
     <lastBuildDate>Tue, 29 Jul 2025 16:53:52 +0800</lastBuildDate>
-    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fresun.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shanghai</title>
-      <link>//localhost:1313/posts/shanghai/</link>
+      <link>https://fresun.github.io/posts/shanghai/</link>
       <pubDate>Tue, 29 Jul 2025 16:53:52 +0800</pubDate>
-      <guid>//localhost:1313/posts/shanghai/</guid>
+      <guid>https://fresun.github.io/posts/shanghai/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown Cheat Sheet</title>
-      <link>//localhost:1313/posts/markdown-cheat-sheet/</link>
+      <link>https://fresun.github.io/posts/markdown-cheat-sheet/</link>
       <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/markdown-cheat-sheet/</guid>
+      <guid>https://fresun.github.io/posts/markdown-cheat-sheet/</guid>
       <description></description>
     </item>
     <item>
       <title>Proxmox</title>
-      <link>//localhost:1313/posts/proxmox/</link>
+      <link>https://fresun.github.io/posts/proxmox/</link>
       <pubDate>Thu, 24 Jul 2025 10:36:42 +0800</pubDate>
-      <guid>//localhost:1313/posts/proxmox/</guid>
+      <guid>https://fresun.github.io/posts/proxmox/</guid>
       <description></description>
     </item>
     <item>
       <title>Semla</title>
-      <link>//localhost:1313/posts/semla/</link>
+      <link>https://fresun.github.io/posts/semla/</link>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/semla/</guid>
+      <guid>https://fresun.github.io/posts/semla/</guid>
       <description></description>
     </item>
     <item>
       <title>Run Tygem Go client software on Mac OS</title>
-      <link>//localhost:1313/posts/tygem-go-client-on-mac/</link>
+      <link>https://fresun.github.io/posts/tygem-go-client-on-mac/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/tygem-go-client-on-mac/</guid>
+      <guid>https://fresun.github.io/posts/tygem-go-client-on-mac/</guid>
       <description></description>
     </item>
     <item>
       <title>Canon LBP2900 printer in Mac OS</title>
-      <link>//localhost:1313/posts/canon-lbp2900-printer-mac/</link>
+      <link>https://fresun.github.io/posts/canon-lbp2900-printer-mac/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/canon-lbp2900-printer-mac/</guid>
+      <guid>https://fresun.github.io/posts/canon-lbp2900-printer-mac/</guid>
       <description></description>
     </item>
     <item>
       <title>Palawan in the Philippines</title>
-      <link>//localhost:1313/posts/palawan/</link>
+      <link>https://fresun.github.io/posts/palawan/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/palawan/</guid>
+      <guid>https://fresun.github.io/posts/palawan/</guid>
       <description></description>
     </item>
   </channel>

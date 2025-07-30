@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fun on fsundstrom</title>
-    <link>//localhost:1313/tags/fun/</link>
+    <link>https://fresun.github.io/tags/fun/</link>
     <description>Recent content in Fun on fsundstrom</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Copyright Fredrik Sundström</copyright>
     <lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/fun/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fresun.github.io/tags/fun/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Semla</title>
-      <link>//localhost:1313/posts/semla/</link>
+      <link>https://fresun.github.io/posts/semla/</link>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/semla/</guid>
+      <guid>https://fresun.github.io/posts/semla/</guid>
       <description></description>
     </item>
   </channel>

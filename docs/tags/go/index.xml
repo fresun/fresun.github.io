@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Go on fsundstrom</title>
-    <link>//localhost:1313/tags/go/</link>
+    <link>https://fresun.github.io/tags/go/</link>
     <description>Recent content in Go on fsundstrom</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Copyright Fredrik Sundström</copyright>
     <lastBuildDate>Fri, 30 Jun 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fresun.github.io/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Run Tygem Go client software on Mac OS</title>
-      <link>//localhost:1313/posts/tygem-go-client-on-mac/</link>
+      <link>https://fresun.github.io/posts/tygem-go-client-on-mac/</link>
       <pubDate>Fri, 30 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/tygem-go-client-on-mac/</guid>
+      <guid>https://fresun.github.io/posts/tygem-go-client-on-mac/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on fsundstrom</title>
-    <link>//localhost:1313/categories/</link>
+    <link>https://fresun.github.io/categories/</link>
     <description>Recent content in Categories on fsundstrom</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Copyright Fredrik Sundström</copyright>
     <lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fresun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>//localhost:1313/categories/blog/</link>
+      <link>https://fresun.github.io/categories/blog/</link>
       <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/blog/</guid>
+      <guid>https://fresun.github.io/categories/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Computing</title>
-      <link>//localhost:1313/categories/computing/</link>
+      <link>https://fresun.github.io/categories/computing/</link>
       <pubDate>Thu, 24 Jul 2025 10:36:42 +0800</pubDate>
-      <guid>//localhost:1313/categories/computing/</guid>
+      <guid>https://fresun.github.io/categories/computing/</guid>
       <description></description>
     </item>
     <item>
       <title>Food</title>
-      <link>//localhost:1313/categories/food/</link>
+      <link>https://fresun.github.io/categories/food/</link>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/food/</guid>
+      <guid>https://fresun.github.io/categories/food/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>//localhost:1313/categories/travel/</link>
+      <link>https://fresun.github.io/categories/travel/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/categories/travel/</guid>
+      <guid>https://fresun.github.io/categories/travel/</guid>
       <description></description>
     </item>
   </channel>
